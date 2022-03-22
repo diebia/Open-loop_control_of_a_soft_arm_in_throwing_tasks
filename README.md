@@ -5,4 +5,12 @@ This paper presents the implementation of an open-loop controller that allows a 
 ## Keywords
 **Soft robotics, Throwing, Open-loop control, Neural network**
 ## Methodology
-![Methodology](Images/DM_Method.svg#gh-light-mode-only)
+![Methodology](Images/DM_Method_WB.svg)
+The methodology proposed is composed by four main steps:
+1. _Actuation sets generation and throws simulation._ After establishing how the robot actuation is constructed and describing the overall movement, the dataset is taken by performing several throws and saving the various landing positions.
+2. _Network Training._ An Artificial Neural Network (ANN) is used to create the direct model of the task.
+3. _Definition of the optimisation problem._ This step is fundamental to find the actuation set necessary to throw an object in a desired position.
+4. _Performing a throw._ Using the actuation set found at `Step 3`, the throw is performed to asset the accuracy of the method.
+
+For futher information, please refer to the original [paper](https://github.com/diebia).
+
