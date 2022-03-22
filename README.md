@@ -5,7 +5,7 @@ This paper presents the implementation of an open-loop controller that allows a 
 ## Keywords
 **Soft robotics, Throwing, Open-loop control, Neural network**
 ## Methodology
-![Methodology](Images/DM_Method_WB.svg)
+![Methodology](Images/DM_Method_soro_WB.svg)
 The methodology proposed is composed by four main steps:
 1. _Actuation sets generation and throws simulation._ After establishing how the robot actuation is constructed and describing the overall movement, the dataset is taken by performing several throws and saving the various landing positions.
 2. _Network Training._ An Artificial Neural Network (ANN) is used to create the direct model of the task.
@@ -22,16 +22,16 @@ The [Target A](Videos/A_rod_video.mp4) is _1.26 m_ far from the base of the soft
 ![TargetA](Videos/A_rod_gif.gif)
 
 ### Target B
-The [Target B](Videos/B_rod_video.mp4) is _XX.XX m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
+The [Target B](Videos/B_rod_video.mp4) is _0.31 m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
 
 ![TargetB](Videos/B_rod_gif.gif)
 
 ### Target C
-The [Target C](Videos/C_rod_video.mp4) is _XX.XX m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
+The [Target C](Videos/C_rod_video.mp4) is _0.63 m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
 
 ![TargetC](Videos/C_rod_gif.gif)
 
 ### Target D
-The [Target D](Videos/D_rod_video.mp4) is _XX.XX m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
+The [Target D](Videos/D_rod_video.mp4) is _1.26 m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
 
 ![TargetD](Videos/D_rod_gif.gif)
