@@ -14,4 +14,20 @@ The methodology proposed is composed by four main steps:
 
 For futher information, please refer to the original [paper](https://github.com/diebia).
 
+## Media
+In this section, four attempts are made to demonstrate the validity of the proposed methodology.
+### Target A
+The Target A is _1.26 m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
+![TargetA](Videos/rod_video.gif)
+
+### Target B
+The Target B is _XX.XX m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
+![TargetA](Videos/rod_video.gif)
+
+### Target C
+The Target C is _XX.XX m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
+![TargetA](Videos/rod_video.gif)
+
+### Target D
+The Target D is _XX.XX m_ far from the base of the soft robotic arm, if we consider just the distance on the horizontal plane. 
 ![TargetA](Videos/rod_video.gif)
