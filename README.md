@@ -5,3 +5,4 @@ This paper presents the implementation of an open-loop controller that allows a 
 ## Keywords
 **Soft robotics, Throwing, Open-loop control, Neural network**
 ## Methodology
+![Methodology](Images/DM_Method.svg#gh-light-mode-only)
