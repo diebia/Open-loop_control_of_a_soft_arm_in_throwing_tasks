@@ -14,3 +14,4 @@ The methodology proposed is composed by four main steps:
 
 For futher information, please refer to the original [paper](https://github.com/diebia).
 
+![TargetA](Videos/rod_video.gif)
