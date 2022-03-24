@@ -13,7 +13,7 @@ The methodology proposed is composed by four main steps:
 3. _Definition of the optimisation problem._ This step is fundamental to find the actuation set necessary to throw an object in a desired position.
 4. _Performing a throw._ Using the actuation set found at `Step 3`, the throw is performed to measure the accuracy of the method.
 
-For futher information, please refer to the original [paper](https://github.com/diebia).
+For futher information, please refer to the original [paper](https://github.com/diebia) [TBA].
 
 ## Media
 In this section, four attempts are made to demonstrate the validity of the proposed methodology.
